@@ -18,7 +18,7 @@ Most portfolios show charts. This one shows **business thinking** — every case
 
 | # | Project | Domain | Business Question | Headline Result |
 |---|---------|--------|--------------------|------------------|
-| 1 | [FashionWave Retail Sales Analysis](./01-FashionWave-Retail-Sales-Analysis) | Retail (50 stores, India) | Why is weekend revenue underperforming and which categories drive profit? | ₹4.75 Cr revenue analyzed → **discount cap + weekend campaign** playbook |
+| 1 | [FashionWave Retail Sales Analysis](02-Boxify-Customer-Churn-Analysis/Boxify Customer Churn Analysis.pdf) | Retail (50 stores, India) | Why is weekend revenue underperforming and which categories drive profit? | ₹4.75 Cr revenue analyzed → **discount cap + weekend campaign** playbook |
 | 2 | [Boxify Customer Churn Analysis](./02-Boxify-Customer-Churn-Analysis) | Subscription / SaaS | Why are customers cancelling before month 6? | **$6.3M revenue at risk** → projected **7% churn reduction** |
 | 3 | [GlowUp Marketing Campaign Performance](./03-GlowUp-Marketing-Campaign-Performance) | Marketing / Digital | Which channels deserve more budget? | Found a **131% ROI channel getting 6% of budget** → ₹400–600K reallocation upside |
 | 4 | [TastyBites Pricing & Profitability Analysis](./04-TastyBites-Pricing-Profitability-Analysis) | Food & Beverage | Is revenue growth masking margin erosion? | Identified discount threshold (**18–20%**) that silently kills margin |
