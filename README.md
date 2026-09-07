@@ -232,3 +232,15 @@ I approach analytics as a business problem first — not a tool-first exercise.
 07  PROJECT IMPACT
     ↓
     Quantify the opportunity wherever possible
+
+```
+
+## 📬 Let's Connect
+
+I'm actively looking for **Data / Business Analyst** roles where I can turn messy data into decisions like the ones above.
+
+- 💼 LinkedIn: * https://www.linkedin.com/in/sneha-saner/ *
+- 📧 Email: * sanersneha13@gmail.com*
+
+⭐ If this portfolio is useful or you're hiring, feel free to star the repo or reach out!
+
