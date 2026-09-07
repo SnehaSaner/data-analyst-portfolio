@@ -65,6 +65,6 @@ Sales transaction data (50 stores, 24 months) was cleaned and analyzed in Excel 
 
 * `FashionWave\_Retail\_Sales\_Analysis.pptx` – Full 11-slide executive deck
 * `FashionWave\_Sales\_Data.xlsx` – Underlying transaction-level dataset \& pivot analysis
-
+* `FashionWave\_Sales\Assets` - Images
 
 
