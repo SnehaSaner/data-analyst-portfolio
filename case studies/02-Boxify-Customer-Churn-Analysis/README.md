@@ -8,6 +8,10 @@
 
 ---
 
+## 📊 Executive Summary
+
+![Executive Summary](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/case%20studies/02-Boxify-Customer-Churn-Analysis/Assets/Executive%20summary.png)
+
 ## 🎯 Business Objective
 Boxify (online subscription box platform) was experiencing a critical surge in customer cancellations, most occurring **before the 6-month mark**. Leadership commissioned this analysis to:
 1. Diagnose **why customers churn**
