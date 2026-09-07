@@ -10,7 +10,7 @@
 
 ## 📊 Key Performance Indicators
 
-![KPI]([../assets/fashionwave.png](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/case%20studies/05-ToyJoy-Inventory-Optimization/Assets/Kpi.png))
+![KPI](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/case%20studies/05-ToyJoy-Inventory-Optimization/Assets/Kpi.png)
 
 ---
 
