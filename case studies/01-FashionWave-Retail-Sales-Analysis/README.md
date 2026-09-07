@@ -1,5 +1,9 @@
 # 👗 FashionWave Retail Sales Analysis
 
+## 📊 Executive Summary
+
+![FashionWave Executive Summary](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/case%20studies/01-FashionWave-Retail-Sales-Analysis/assets/Executive%20summary.png)
+
 **Business Intelligence Report | 50 Stores Across India | Jan 2024 – Dec 2025**
 
 \[!\[Tool](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoftexcel\&logoColor=white)]()
