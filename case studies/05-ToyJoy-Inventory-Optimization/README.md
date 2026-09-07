@@ -8,6 +8,12 @@
 
 ---
 
+## 📊 Key Performance Indicators
+
+![KPI]([../assets/fashionwave.png](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/case%20studies/05-ToyJoy-Inventory-Optimization/Assets/Kpi.png))
+
+---
+
 ## 🎯 Business Objective
 ToyJoy had ₹2.0M locked in excess inventory *and* frequent stockouts on its best sellers at the same time — a classic sign of reactive, non-data-driven inventory management. Across **5 product categories and 9,221 transactions**, this analysis was built to:
 1. Optimize inventory allocation for capital efficiency
