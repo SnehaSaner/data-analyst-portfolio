@@ -19,10 +19,10 @@ Most portfolios show charts. This one shows **business thinking** — every case
 | # | Project | Domain | Business Question | Headline Result |
 |---|---------|--------|--------------------|------------------|
 | 1 | [FashionWave Retail Sales Analysis](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/FashionWave%20Retail%20Sales%20Analysis.pdf) | Retail (50 stores, India) | Why is weekend revenue underperforming and which categories drive profit? | ₹4.75 Cr revenue analyzed → **discount cap + weekend campaign** playbook |
-| 2 | [Boxify Customer Churn Analysis](./02-Boxify-Customer-Churn-Analysis) | Subscription / SaaS | Why are customers cancelling before month 6? | **$6.3M revenue at risk** → projected **7% churn reduction** |
-| 3 | [GlowUp Marketing Campaign Performance](./03-GlowUp-Marketing-Campaign-Performance) | Marketing / Digital | Which channels deserve more budget? | Found a **131% ROI channel getting 6% of budget** → ₹400–600K reallocation upside |
-| 4 | [TastyBites Pricing & Profitability Analysis](./04-TastyBites-Pricing-Profitability-Analysis) | Food & Beverage | Is revenue growth masking margin erosion? | Identified discount threshold (**18–20%**) that silently kills margin |
-| 5 | [ToyJoy Inventory Optimization](./05-ToyJoy-Inventory-Optimization) | E-commerce / Retail Ops | How do we free up working capital without hurting availability? | **₹675K annual value opportunity**, 90-day action plan |
+| 2 | [Boxify Customer Churn Analysis](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/Boxify%20Customer%20Churn%20Analysis.pdf) | Subscription / SaaS | Why are customers cancelling before month 6? | **$6.3M revenue at risk** → projected **7% churn reduction** |
+| 3 | [GlowUp Marketing Campaign Performance](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/GlowUp%20Marketing%20Campaign%20Performance%20Presentation.pdf) | Marketing / Digital | Which channels deserve more budget? | Found a **131% ROI channel getting 6% of budget** → ₹400–600K reallocation upside |
+| 4 | [TastyBites Pricing & Profitability Analysis](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/TastyBites%20Product%20Pricing%20%26%20Profitability%20Analysi.pdf) | Food & Beverage | Is revenue growth masking margin erosion? | Identified discount threshold (**18–20%**) that silently kills margin |
+| 5 | [ToyJoy Inventory Optimization](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/ToyJoy%20Inventory%20Optimization.pdf) | E-commerce / Retail Ops | How do we free up working capital without hurting availability? | **₹675K annual value opportunity**, 90-day action plan |
 
 ---
 
