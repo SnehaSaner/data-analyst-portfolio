@@ -8,6 +8,12 @@
 
 ---
 
+## 📊 Dashboard Preview
+
+![Executive Summary](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/case%20studies/03-GlowUp-Marketing-Campaign-Performance/Assets/Executive%20summary.png)
+
+---
+
 ## 🎯 Business Objective
 GlowUp needed to know where its ₹19.85M marketing budget was actually working — across **Social Media, Email, and Influencer Marketing** — and how to reallocate spend for maximum ROI. 1,500 campaign records were evaluated across a full fiscal year.
 
