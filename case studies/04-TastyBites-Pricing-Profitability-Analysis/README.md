@@ -8,6 +8,12 @@
 
 ---
 
+## 📊 Dashboard Preview
+
+![KPI](https://github.com/SnehaSaner/data-analyst-portfolio/blob/main/case%20studies/04-TastyBites-Pricing-Profitability-Analysis/Assets/KPI.png)
+
+---
+
 ## 🎯 Business Objective
 TastyBites' top-line revenue looked healthy, but leadership suspected margin was quietly eroding. This analysis of **972 orders** across product, customer, and payment dimensions was commissioned to:
 1. Separate **margin champions from margin destroyers** across the SKU portfolio
